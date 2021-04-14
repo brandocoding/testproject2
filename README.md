@@ -8,3 +8,4 @@
 <br />
 <font size="1">ObjectCollision-Test_2</font><br />
 <font size="1">Lines 59 - 67</font>
+<font size="1">Bugs: player object only moves if other keys are pressed.</font><br />
