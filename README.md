@@ -1,4 +1,4 @@
-# testproject2
+# Frogger Collision Test
 <font size="1">What is the goal from this test?</font><br />
 <font size="1">When the player object collides with the log object to move with it along the x-axis</font><br />
 <br />
