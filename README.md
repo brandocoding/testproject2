@@ -1,6 +1,7 @@
 # Frogger Collision Test
 <font size="1">What is the purpose from this test?</font><br />
 <font size="1">Fix when the player object collides with the log object to move with it along the x-axis</font><br />
+<font size="1">Practice class inheritance</font><br />
 <br />
 <font size="1">ObjectCollision-Test_1</font><br />
 <font size="1">main.py lines 58 - 61</font><br />
