@@ -12,4 +12,5 @@
 <br />
 <font size="1">ObjectCollision-Test_3</font><br />
 <font size="1">Changes: main.py lines 58 - 63</font><br />
+<font size="1">Changes: sprite.py lines 16 - 22 (added the updating to the player class.)</font><br />
 <font size="1">Bugs: player object only moves if other keys are pressed while collision is happening.</font><br />
